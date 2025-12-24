@@ -23,7 +23,7 @@
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
-
+<img width="828" height="1280" alt="image" src="https://github.com/user-attachments/assets/0ba356e7-6b2c-41be-8e99-9fc3f2bfad83" />
 
 
 
