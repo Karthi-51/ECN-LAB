@@ -25,12 +25,22 @@
 **CIRCUIT DIAGRAM:**
 
 
+<img width="341" height="517" alt="image" src="https://github.com/user-attachments/assets/1faba442-2bf4-4a2a-9f03-1f759137b395" />
 
 
 
 
+**TABLE:**
 
 
+
+<img width="316" height="161" alt="image" src="https://github.com/user-attachments/assets/024e29e3-a0d1-4cbf-8849-8af0574af45c" />
+
+**MODEL CALCULATION:**
+
+
+
+<img width="653" height="691" alt="image" src="https://github.com/user-attachments/assets/0511a64a-65bb-45ac-ae3c-b3604f90ef20" />
 
 
 
